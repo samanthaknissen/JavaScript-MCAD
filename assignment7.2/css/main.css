@@ -1,0 +1,14 @@
+body {
+	max-width: 50%;
+	max-height: 50%;
+	margin: 25% auto;
+	width: 725px;
+	height: 725px;
+  background-color: #317873;
+	color: #fff;
+}
+.contentClick {
+  -webkit-transform: rotate(360deg); /* Safari */
+  transform: rotate(360deg);
+  transition-duration: 2s;
+}
