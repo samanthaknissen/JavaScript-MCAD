@@ -22,6 +22,7 @@ var churchillSpeech = {
 
 var consoleDisplay = document.getElementById('ConsoleDisplay');
 
+// Function executes donation rules
 document.getElementById('BtnDonate').addEventListener('click', function(){
   consoleDisplay.innerHTML = "";
 
