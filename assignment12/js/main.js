@@ -30,7 +30,7 @@ $(document).ready(function() {
         $('.recipe:not(#veganSoup)').hide();
     });
 
-// Makes title larger upon hover
+// Makes title larger (and moves it) upon clicking
     $( "#title" ).click(function() {
         $( "#title" )
           .animate({
