@@ -113,6 +113,7 @@ textarea {
 
   h3 {
     text-align: center;
+    cursor: pointer;
   }
 
   .intro {

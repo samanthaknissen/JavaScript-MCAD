@@ -35,7 +35,7 @@ $(document).ready(function() {
 
   $( ".c-4 ul" ).hide();
   $( ".c-4 h3" ).click(function() {
-  $( ".c-4 ul" ).slideToggle( "slow" );
+  $( ".c-4 ul" ).slideToggle( "fast" );
   });
 
 });
